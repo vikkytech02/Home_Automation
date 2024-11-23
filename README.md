@@ -1,4 +1,4 @@
-# 8-Channel Relay Control System
+# Home Automation
 
 This Arduino project allows for the control of an 8-channel relay module using serial communication. It can manage individual relays, execute predefined patterns, and toggle all relays simultaneously. The system is ideal for automation tasks and remote control projects.
 
